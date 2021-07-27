@@ -1,6 +1,6 @@
 # pfetch-install
 
-One bash script for install pfetch
+One bash script for install [pfetch](https://github.com/dylanaraps/pfetch)
 
 ## How to use
 
