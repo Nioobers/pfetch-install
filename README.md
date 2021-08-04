@@ -4,14 +4,12 @@ One bash script for install [pfetch](https://github.com/dylanaraps/pfetch)
 
 ## How to use
 
-1. 
-Clone the project
+1. Clone the project
 ```bash
 git clone https://github.com/Nioobers/pfetch-install && cd pfetch install
 ```
 
-2. 
-Launch the script
+2. Launch the script
 ```bash
 sudo bash install.sh
 ```
